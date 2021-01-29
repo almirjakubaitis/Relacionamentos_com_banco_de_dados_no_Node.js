@@ -17,8 +17,6 @@
 
 
 
-
-
  ## 💻 Tecnologias
 
    - React.js
